@@ -1,4 +1,1 @@
-Coding at home as a hobby, so code is incorrect & not simple
-
-I hope you understand
-
+독학하면서 만든 공간입니다
